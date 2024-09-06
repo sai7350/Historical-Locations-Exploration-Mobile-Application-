@@ -1,7 +1,3 @@
-# Inaiways Technology Pvt Ltd Platform
-
-## Setup
-
 Make sure to install the dependencies:
 
 ```bash
