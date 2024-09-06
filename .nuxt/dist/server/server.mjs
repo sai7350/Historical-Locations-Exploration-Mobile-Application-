@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/saish/Desktop/test/ASI_Proto_Project-master/ASI_Proto_Project-master/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
